@@ -11,3 +11,7 @@ Basic web app created with Laravel and spatie package for managing roles and per
 - Editor can create and edit posts<br>
 - Every new registered user gets 'guest' role<br>
 - Guest can only create posts<br>
+
+## Preview
+
+https://user-images.githubusercontent.com/72792707/141754855-860aa097-8150-4e4a-9a53-34f4b0b7a0ef.mp4
